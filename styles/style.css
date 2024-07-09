@@ -253,16 +253,19 @@ header h4{
     width: 364px;
     height: 299px;
     padding: 40px 40px;
+    background-color: cadetblue;
 }
 .card2{
     width: 364px;
     height: 299px;
     padding: 40px 40px;
+    background-color: violet;
 }
 .card3{
     width: 364px;
     height: 299px;
     padding: 40px 40px;
+    background-color: tomato;
 }
 .card1 h3{
     font-size: 24px;
