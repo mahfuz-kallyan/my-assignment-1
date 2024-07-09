@@ -68,16 +68,16 @@ header h4{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: left;
-    margin-bottom: 50px;
+    align-items:left;
+    margin-bottom:50px;
 }
 .banner-heading{
-    color: rgb(13, 19, 33);
+    color:rgb(13, 19, 33);
     font-size: 48px;
     font-weight: 800;
 }
 .banner-description{
-    color: rgb(13, 19, 33);
+    color:rgb(13, 19, 33);
     font-size: 16px;
     font-weight:500;
 }
@@ -88,7 +88,103 @@ header h4{
      padding-bottom: 18px;
      font-size: 20px;
      font-weight: 600;
-     color: rgb(255, 255, 255);
-     background-color: rgb(13, 19, 33);
+     color:rgb(255, 255, 255);
+     background-color:rgb(13, 19, 33);
+     margin-top:30px;
+     margin-bottom: 30px;
+}
+/* Development section start */
+.development{
+    width: 1140px;
+    height: 1393px;
+    margin: 0 auto;
+}
+.development-heading{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}
+.title{
+     font-size: 32px;
+     font-weight: 800;
+     color: rgb(13, 19, 33);
      margin-top: 30px;
+}
+.development-section-part1{
+    width: 946px;
+    height: 336px;
+    margin:0 auto;
+    display: flex;
+    padding: 48px 48px;
+}
+.part1-title{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-bottom: 32px;
+}
+.part1-button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    margin-top: 32px;
+}
+.part1-button a{
+    color: rgb(13, 19, 33);
+    text-decoration: none;
+}
+.development-section-part2{
+    width: 946px;
+    height: 336px;
+    margin:0 auto;
+    display: flex;
+    padding: 48px 48px;
+    gap: 20px;
+}
+.part2-title{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-bottom: 32px;
+}
+.part2-button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    margin-top: 32px;
+}
+.part2-button a{
+    color: rgb(13, 19, 33);
+    text-decoration: none;
+}
+.development-section-part3{
+    width: 946px;
+    height: 336px;
+    margin:0 auto;
+    display: flex;
+    padding: 48px 48px;
+}
+.part3-title{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-bottom: 32px; 
+}
+.part3-button{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    margin-top: 32px;
+}
+.part3-button a{
+    color: rgb(13, 19, 33);
+    text-decoration: none;
 }
