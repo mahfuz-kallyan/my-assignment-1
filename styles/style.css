@@ -6,7 +6,7 @@
   font-weight: 400;
   font-style: normal;
 }
-/* Header styles  start*/
+/* Header styles  starts*/
 .header{
     display: flex;
     justify-content:space-between;
@@ -43,7 +43,7 @@ header h4{
     color: rgb(13, 19, 33);
     margin-left: 150px;
 }
-/* Banner styles start */
+/* Banner styles starts */
 .banner{
     width: 1440px;
     height: 652px;
@@ -93,7 +93,7 @@ header h4{
      margin-top:30px;
      margin-bottom: 30px;
 }
-/* Development section start */
+/* Development section starts */
 .development{
     width: 1140px;
     height: 1393px;
@@ -188,12 +188,12 @@ header h4{
     color: rgb(13, 19, 33);
     text-decoration: none;
 }
-/* Inspiration styles start */
+/* Inspiration styles starts */
 .inspiration{
     width: 1140px;
     height: 735px;
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 100px;
 }
 .text-content{
     width: 852px;
@@ -217,5 +217,81 @@ header h4{
     height: 550px;
     margin-top: 32px;
 }
+/* My target style starts */
+.my-target{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 110px;
+    
+}
+.target-text-content{
+    width: 946px;
+    height: 113px;
+    margin: 0 auto;
+    text-align: center;
+}
+.target-text-content h3{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+.target-text-content p{
+    margin-top: 10px;
+    color: rgb(13, 19, 33);
+}
+.cards{
+    width: 1140px;
+    height: 299px;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    gap:15px
+}
+.card1{
+    width: 364px;
+    height: 299px;
+    padding: 40px 40px;
+}
+.card2{
+    width: 364px;
+    height: 299px;
+    padding: 40px 40px;
+}
+.card3{
+    width: 364px;
+    height: 299px;
+    padding: 40px 40px;
+}
+.card1 h3{
+    font-size: 24px;
+    font-weight: 800;
+}
+.card2 h3{
+    font-size: 24px;
+    font-weight: 800;
+}
+.card3 h3{
+    font-size: 24px;
+    font-weight: 800;
+}
+.card1 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+.card2 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+.card3 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+
+
 
 
