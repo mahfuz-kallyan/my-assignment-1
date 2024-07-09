@@ -55,9 +55,10 @@ header h4{
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 20px;
 }
 .banner-image{
-    margin-bottom:70px
+    margin-top:40px
 }
 
 .banner-content{
@@ -67,8 +68,8 @@ header h4{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: center;
-    margin-bottom: 75px;
+    align-items: left;
+    margin-bottom: 50px;
 }
 .banner-heading{
     color: rgb(13, 19, 33);
