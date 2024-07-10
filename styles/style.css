@@ -223,6 +223,7 @@ header h4{
     height: 460px;
     margin: 0 auto;
     margin-top: 110px;
+    margin-bottom:130px;
     
 }
 .target-text-content{
@@ -248,6 +249,7 @@ header h4{
     margin-top: 30px;
     display: flex;
     gap:15px
+
 }
 .card1{
     width: 364px;
@@ -294,7 +296,82 @@ header h4{
     font-weight: 700;
     color: rgb(13, 19, 33);
 }
+/* Next target style starts */
+.next-target{
+    width: 1140px;
+    height: 866px;
+    margin: 0 auto;
+}
+.next-target-textcontent{
+    width: 946px;
+    height: 113px;
+    margin: 0 auto;
+}
+.next-target-textcontent h3{
+    font-size:32px ;
+    font-weight:800 ;
+    color: rgb(13, 19, 33);
+    margin-top: 8px;
+    text-align: center;
+}
+.next-target-textcontent p{
+    color: rgb(13, 19, 33);
+}
 
+.box1 h3{
+    font-size: 24px;
+    font-weight: 800;
+    color:rgb(13, 19, 33)
+}
+.box1 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+
+
+.box2 h3{
+    font-size: 24px;
+    font-weight: 800;
+    color:rgb(13, 19, 33)
+}
+.box2 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+
+.box3 h3{
+    font-size: 24px;
+    font-weight: 800;
+    color:rgb(13, 19, 33)
+}
+.box3 a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+}
+.box-container1{
+    border: 1px solid rgb(13, 19, 33, 0.15);
+    display: flex;
+    gap: 20px;
+    padding: 40px 40px;
+    margin-top: 15px;
+}
+.box-container2{
+    border: 1px solid rgb(13, 19, 33, 0.15);
+    display: flex;
+    gap: 20px;
+    padding: 40px 40px;
+    margin-top: 15px;
+}
+.box-container3{
+    border: 1px solid rgb(13, 19, 33, 0.15);
+    display: flex;
+    gap: 20px;
+    padding: 40px 40px;
+    margin-top: 15px;
+}
 
 
 
