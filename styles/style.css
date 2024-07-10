@@ -372,6 +372,44 @@ header h4{
     padding: 40px 40px;
     margin-top: 15px;
 }
+/* Support Section Starts */
+.support-section{
+    width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+}
+.support-section-textcontent{
+    width: 730px;
+    height: 104px;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top:20px;
+    margin-bottom: 60px;
+}
+.support-section-textcontent h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.support{
+    margin-left: 180px;
+    margin-right: 316px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.footer-section{
+    width: 1140px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+
 
 
 
